@@ -1,0 +1,20 @@
+ /*.header {
+    background-color: #f8f9fa;
+  padding: 20px;
+  text-align: center;
+  
+}
+.btn-header {
+    color: #00b7ff;
+    font-size: 20px;
+    background-color: rgb(203, 235, 244);
+    border: 0;
+    border-left: 1px solid;
+    border-right: 1px solid;
+    border-width: 2;
+    width: 200px;
+    height: 30px;
+}
+.btn-header:active{
+    background-color: rgb(107, 212, 241);
+}*/

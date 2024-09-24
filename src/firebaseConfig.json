@@ -1,0 +1,10 @@
+{
+    "firebaseConfig": {
+        "apiKey": "AIzaSyD0_08oGYWV20Q2MG5g8bkGUjlHggLhz-E",
+        "authDomain": "orcamento-1499e.firebaseapp.com",
+        "projectId": "orcamento-1499e",
+        "storageBucket": "orcamento-1499e.appspot.com",
+        "messagingSenderId": "986170717286",
+        "appId": "1:986170717286:web:6e2ab290553fade051a9a7"
+      }
+}

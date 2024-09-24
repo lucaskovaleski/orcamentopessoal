@@ -1,0 +1,21 @@
+/* components/chart/styles.css */
+
+/* Define o tamanho máximo do gráfico */
+.chart-container {
+    max-width: 400px;
+    margin: 0 auto; /* Centraliza o gráfico */
+  }
+  
+  /* Define as cores e estilos dos datasets do gráfico */
+  .piechart-dataset {
+    stroke-width: 2;
+    stroke: #fff;
+  }
+  
+  /* Personalização adicional */
+  .piechart-background {
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    padding: 20px;
+  }
+  
